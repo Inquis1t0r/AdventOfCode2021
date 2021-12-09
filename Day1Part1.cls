@@ -1,3 +1,5 @@
 public class Day1Part1 {
-  //TODO: Static resource read
+    public static void Solution(){
+		//TODO: Blob -> String -> List<String> [split]        
+    }
 }
